@@ -1,0 +1,54 @@
+title: MS Learn Questions and Answers
+description:
+author: avicoder
+github: https://github.com/avicoder
+about:
+disqus_shortname: avicoder
+google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+  posts:
+    output: true
+    permalink: /:title/
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/avicoder"
+    - icon: fa-github
+      link: "https://github.com/avicoder"
+
+share:
+  twitter_username: github.io
+  fb_appid:
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https:/avicoder.me"
+baseurl: "/mslearn"
+paginate: 50
+per_page: 50
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['production']

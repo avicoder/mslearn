@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MS Learn Questions and Answers</title>
+    <description>:coffee: Free and open-source Jekyll theme</description>
+    <link>http://localhost:4000/mslearn/</link>
+    <atom:link href="http://localhost:4000/mslearn/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 13 Apr 2021 23:14:58 +0800</pubDate>
+    <lastBuildDate>Tue, 13 Apr 2021 23:14:58 +0800</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Set up XBRL reports in Dynamics 365 Business Central</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/xbrl-reports-dynamics-365-business-central/6-check/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/xbrl-reports-dynamics-365-business-central.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-xbrl-is-an-acronym-for-which-of-the-following&quot;&gt;1. XBRL is an acronym for which of the following?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Excel Business Reporting Language&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   XML Business Reporting Language&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   eXtensible Business Reporting Language&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   eXtended Business Reporting Language
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-which-of-the-following-are-the-four-types-of-linkbases&quot;&gt;2. Which of the following are the four types of linkbases?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Label, Presentation, XML, Calculation&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Label, Reference, Presentation, Calculation&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Presentation, Reference, Calculation, XML&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Label, Reference, Presentation, XML
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-what-is-the-purpose-of-the-xbrl-export-instance--spec-2-report&quot;&gt;3. What is the purpose of the XBRL Export Instance – Spec. 2 report?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Export the required financial reporting information to Excel.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Export the required financial reporting information in XML format from an XBRL Specification 2 Taxonomy.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Export the required financial reporting information in XML format from an XBRL Specification 2 Taxonomy to the XBRL organizational website.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Export the required financial reporting information in XML format from an XBRL Specification 2 Taxonomy to a website of your local government to submit the annual accounts of a company.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/xbrl-reports-dynamics-365-business-central-6-check/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/xbrl-reports-dynamics-365-business-central-6-check/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Build dual-screen Xamarin.Forms apps by using TwoPaneView - Layout changes and larger screens</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/xamarin-forms-dual-screen/6-larger-screens/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/xamarin/xamarin-forms-dual-screen-badge.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-twopaneview-will-only-show-a-single-pane-under-what-conditions&quot;&gt;1. TwoPaneView will only show a single pane under what conditions:&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Never, it always shows two panes (hence the name TwoPaneView).&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   When the height and width of the window are below the minimum heights for tall and wide mode.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   When tall or wide mode are configured for SinglePane.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   When the height and width of the window are below the minimum heights for tall and wide mode OR when tall or wide mode are configured for SinglePane.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/xamarin-forms-dual-screen-6-larger-screens/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/xamarin-forms-dual-screen-6-larger-screens/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Build dual-screen Xamarin.Forms apps by using TwoPaneView - Detect and respond to spanning/unspanning the app</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/xamarin-forms-dual-screen/4-span-unspan/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/xamarin/xamarin-forms-dual-screen-badge.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-the-dualscreeninfo-propertychanged-event-will-be-called&quot;&gt;1. The DualScreenInfo PropertyChanged event will be called:&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   When the device is rotated, folded/unfolded, or the app is spanned or unspanned.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Only when the device is rotated so that the app’s orientation is changed.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Only when app is moved from one to two screens (or vice versa), such as when folded/unfolded or spanned/unspanned.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-what-control-should-you-use-to-show-content-side-by-side-on-a-dual-screen-device&quot;&gt;2. What control should you use to show content side by side on a dual-screen device?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Only TwoPaneView can properly render your layouts across two screens.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   You can use DualScreenInfo to detect the hinge and screen coordinates and adjust any layout for two screens.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/xamarin-forms-dual-screen-4-span-unspan/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/xamarin-forms-dual-screen-4-span-unspan/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Build dual-screen Xamarin.Forms apps by using TwoPaneView - Display content on dual-screens</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/xamarin-forms-dual-screen/2-display-two-screens/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/xamarin/xamarin-forms-dual-screen-badge.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-how-do-i-enable-dual-screen-layouts-and-detection-in-xamarinforms&quot;&gt;1. How do I enable dual-screen layouts and detection in Xamarin.Forms?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   It just works in Xamarin.Forms.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Add the Xamarin.Forms.DualScreen NuGet.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Add the Xamarin.Forms.DualScreen NuGet and initialize in the Android application’s MainActivity class.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-for-apps-to-run-on-surface-duo-they-must&quot;&gt;2. For apps to run on Surface Duo they must…&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   …use the TwoPaneView control as their root layout on the main page.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   …implement DualScreenInfo to modify every page layout for dual-screens.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   …be an Android app. You can optionally enhance some (or all) layouts for dual-screen displays.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/xamarin-forms-dual-screen-2-display-two-screens/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/xamarin-forms-dual-screen-2-display-two-screens/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Write down or appreciate fixed assets in Dynamics 365 Business Central</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/write-down-appreciate-fixed-assets/4-check/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/write-down-appreciate-fixed-assets.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-you-want-to-post-a-write-down-from-the-fixed-asset-gl-journal-what-gl-accounts-do-you-need-to-set-up-in-the-fa-posting-group-for-the-asset-that-you-want-to-post-the-write-down-for&quot;&gt;1. You want to post a write-down from the fixed asset G/L journal. What G/L accounts do you need to set up in the FA posting group for the asset that you want to post the write-down for?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Write-down account&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Write-down expense account&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Write-down account and write-down expense account&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Write-down expense account and depreciation account
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-where-can-you-designate-if-an-appreciation-entry-should-be-part-of-the-depreciable-basis&quot;&gt;2. Where can you designate if an appreciation entry should be part of the depreciable basis?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   On the FA Posting Type Setup page&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   On the FA Posting Group page&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   On the fixed asset card&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   On the Depreciation Book page
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/write-down-appreciate-fixed-assets-4-check/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/write-down-appreciate-fixed-assets-4-check/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Write data in a Power Apps canvas app</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/write-data/6-knowledge-check/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/write-data.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-which-of-the-following-is-not-a-display-mode-for-an-edit-form-control&quot;&gt;1. Which of the following is NOT a display mode for an Edit Form control?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   View Mode&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Edit Mode&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   New Mode&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Interactive Mode
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-what-function-do-you-use-to-save-the-data-from-your-form-back-to-your-data-source&quot;&gt;2. What function do you use to save the data from your form back to your data source?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   SaveForm&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Save&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   SubmitForm&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   You do not need a function. Forms automatically save the data to the data source.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-what-is-the-correct-way-to-run-a-formula-after-a-form-has-been-successfully-submitted&quot;&gt;3. What is the correct way to run a formula after a form has been successfully submitted?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Put your formula in the OnSuccess property of the form.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Add the formula to a Button control&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Put your formula in the OnReset property of the form.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   It is not possible to run a formula after a form is submitted.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/write-data-6-knowledge-check/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/write-data-6-knowledge-check/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Analyze collaboration and engagement using the Workplace Analytics Ways of working assessment dashboard</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/knowledge-check/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-which-of-the-following-themes-is-not-covered-by-the-ways-of-working-assessment-dashboard&quot;&gt;1. Which of the following themes is NOT covered by the Ways of working assessment dashboard?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Employee experience&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Cross-organizational connectivity&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Collaboration culture
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-which-of-the-following-queries-are-needed-to-populate-the-ways-of-working-assessment-dashboard&quot;&gt;2. Which of the following queries are needed to populate the Ways of working assessment dashboard?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Collaboration overload and Standard meeting query&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Standard meeting query and Ways of working tracker&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Ways of working assessment and Standard meeting query
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-what-does-the-ways-of-working-assessment-consider-a-bloated-meeting&quot;&gt;3. What does the Ways of working assessment consider a bloated meeting?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   2-18 attendees, 1-2 hours long&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   2-50 attendees, 2+ hours long&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   19-50 attendees, 0-2 hours long
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/workplace-analytics-ways-working-knowledge-check/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/workplace-analytics-ways-working-knowledge-check/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Drive organizational change with Microsoft Workplace Analytics and MyAnalytics</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/knowledge-check/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/drive-organizational-change-with-microsoft-workplace-analytics.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-which-tools-can-you-enable-to-help-reduce-the-time-spent-in-meetings&quot;&gt;1. Which tools can you enable to help reduce the time spent in meetings?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Workplace Analytics Plans&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   The Personal Fitness tracker&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Workplace Analytics admin portal
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-what-can-you-do-to-improve-manager-effectiveness&quot;&gt;2. What can you do to improve manager effectiveness?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Launch the Workplace Analytics seller success plan.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Enable insights for people managers.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Provide all managers access to Workplace Analytics queries.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-which-of-the-following-should-you-consider-when-designing-custom-tactics&quot;&gt;3. Which of the following should you consider when designing custom tactics?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Start with the solution that requires the least amount of effort.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Do what your competitors would do.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Consider the barriers as to why someone wouldn’t adopt certain behaviors.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;4-which-of-the-following-are-ways-in-which-you-can-measure-behavior-across-the-whole-organization&quot;&gt;4. Which of the following are ways in which you can measure behavior across the whole organization?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   MyAnalytics dashboards&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   The Workplace Analytics Ways of working tracker&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Insights for people managers
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/workplace-analytics-ways-working-action-knowledge-check/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/workplace-analytics-ways-working-action-knowledge-check/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Measure Teams collaboration with the Microsoft Teams insights dashboard in Workplace Analytics</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-teams-insights/knowledge-check/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/measure-teams-collaboration-with-the-teams-insights-dashboard-in-workplace-analytics.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-to-prepare-the-workplace-analytics-power-bi-teams-insights-dashboard-which-pre-defined-queries-do-you-need-to-run&quot;&gt;1. To prepare the Workplace Analytics Power BI Teams insights dashboard, which pre-defined queries do you need to run?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Standard person query and Microsoft Teams insights query&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Collaboration tracker and Influence insights query&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Microsoft Teams insights query and Influence insights query&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Influence insights query and Business continuity query
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-which-of-the-following-reports-are-not-presented-in-the-workplace-analytics-power-bi-teams-insights-dashboard&quot;&gt;2. Which of the following reports are NOT presented in the Workplace Analytics Power BI Teams insights dashboard?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   What does adoption look like so far?&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Where can you focus training and education for Teams adoption?&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   How can remote work effectiveness be improved?&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Are employees working after hours in Teams?
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-which-three-opportunity-areas-for-meaningful-change-are-presented-in-the-teams-insights-dashboard&quot;&gt;3. Which three opportunity areas for meaningful change are presented in the Teams insights dashboard?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Protect wellbeing, Drive adoption with influencers, and Reduce adhoc calls&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Increase channel and IM use to speed up communication, Protect wellbeing, and Drive adoption with influencers&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Drive adoption with influencers, Reduce email hours, and Protect wellbeing&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Manage documents in Teams, Protect wellbeing, Drive adoption with influencers
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/workplace-analytics-teams-insights-knowledge-check/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/workplace-analytics-teams-insights-knowledge-check/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Onboard to Microsoft Workplace Analytics</title>
+        <description>&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-onboard/knowledge-check/&quot;&gt;&lt;i class=&quot;fas fa-external-link-alt&quot;&gt;&lt;/i&gt; &lt;/a&gt;
+ &lt;img align=&quot;right&quot; src=&quot;https://docs.microsoft.com/en-us/learn/achievements/generic-badge.svg&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;1-which-of-these-roles-is-not-used-during-workplace-analytics-setup-and-onboarding&quot;&gt;1. Which of these roles is not used during Workplace Analytics setup and onboarding?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   HR database administrator&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Microsoft 365 administrator&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Workplace Analytics administrator
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-which-of-the-following-is-true-of-workplace-analytics-licenses&quot;&gt;2. Which of the following is true of Workplace Analytics licenses?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   A Workplace Analytics license changes the user’s day-to-day experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Workplace Analytics ingests and analyzes digital collaboration patterns for employees included in the analysis population.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Workplace Analytics ingests telemetry data from employee computers, for example keystrokes, clicks, amount of time spend in applications.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-which-role-has-full-access-to-all-workplace-analytics-features-including-the-ability-to-directly-query-the-data-set-but-cant-change-workplace-analytics-settings-like-system-defaults-and-privacy-settings&quot;&gt;3. Which role has full access to all Workplace Analytics features (including the ability to directly query the data set) but can’t change Workplace Analytics settings (like system defaults and privacy settings)?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Microsoft 365 administrator&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Workplace Analytics administrator&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Workplace Analytics analyst&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Workplace Analytics analyst limited
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;4-which-of-the-following-is-true-of-workplace-analytics-settings&quot;&gt;4. Which of the following is true of Workplace Analytics settings?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Working hours set by the admin apply to all employees included in the analysis population.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Updating minimum group size and hashed subject lines in Privacy settings causes the changes to go into effect immediately and apply retroactively.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   If a specific email address is excluded, meeting hours for other employees that meet with the owner of that email address remain in the data set.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;5-which-of-the-following-attributes-in-the-organizational-data-file-is-optional-for-the-initial-data-onboarding&quot;&gt;5. Which of the following attributes in the organizational data file is optional for the initial data onboarding?&lt;/h4&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   ManagerId&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   LevelDesignation&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-square&quot;&gt;&lt;/i&gt;   Organization&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-check-square&quot; style=&quot;color: Dodgerblue;&quot;&gt;&lt;/i&gt;   Region
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/mslearn/workplace-analytics-onboard-knowledge-check/</link>
+        <guid isPermaLink="true">http://localhost:4000/mslearn/workplace-analytics-onboard-knowledge-check/</guid>
+        
+        <category>nil</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
