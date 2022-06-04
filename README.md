@@ -1,3 +1,3 @@
 ## MS LEARN
 
-Get all the with correct answers  from MS Learn.
+Get all the Questions with correct answers from MS Learn.
